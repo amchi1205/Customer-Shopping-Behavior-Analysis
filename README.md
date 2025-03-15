@@ -24,16 +24,16 @@ The dataset used in this project is available on [Kaggle](https://www.kaggle.com
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Pytrends
 - Jupyter Notebook
 
-Results
+## Results:
+- Customer Segmentation: Identified 4 distinct customer segments using KMeans clustering.
+- Subscription Prediction: Achieved 70% accuracy in predicting subscription behavior using a Decision Tree model.
 
-Customer Segmentation: Identified 4 distinct customer segments using KMeans clustering.
-Subscription Prediction: Achieved 70% accuracy in predicting subscription behavior using a Decision Tree model.
-Future Work
+## Future Work:
 
-Deploy the model as a web app using Flask or FastAPI.
-Explore additional machine learning models (e.g., Random Forest, XGBoost).
-Author
+- Deploy the model as a web app using Flask or FastAPI.
+- Explore additional machine learning models (e.g., Random Forest, XGBoost).
 
-Andrew Chi
-Email: chia@oregonstate.edu
-GitHub: amchi1205
+## Author:
+- Andrew Chi
+- Email: chia@oregonstate.edu
+- GitHub: amchi1205
