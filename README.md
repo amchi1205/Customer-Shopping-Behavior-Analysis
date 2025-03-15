@@ -1,9 +1,10 @@
 # Customer-Shopping-Behavior-Analysis
 
-[Decoding Customer Trends.pdf](https://github.com/user-attachments/files/19259218/Decoding.Customer.Trends.pdf)
-
 ## Overview
 This project analyzes customer shopping behavior using a publicly available dataset from Kaggle. The goal is to segment customers based on their shopping patterns and predict subscription behavior using machine learning techniques.
+
+## Report
+[Decoding Customer Trends.pdf](https://github.com/user-attachments/files/19259218/Decoding.Customer.Trends.pdf)
 
 ## Key Features
 - **Data Cleaning**: Handled missing values, removed outliers, and standardized data.
